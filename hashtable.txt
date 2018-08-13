@@ -1,0 +1,8 @@
+INSERT, SEARCH, and DELETE.
+
+Direct address table: small U = {0, 1, ..., m-1}
+- search: return T[k]
+- insert: T[x.key] = x
+- delete: T[x.key] = NIL
+
+Chain hash 

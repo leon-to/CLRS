@@ -1,0 +1,52 @@
+7.1-1
+i   j
+    p                                           r (aslo pivot)
+    13  19  9   5   12  8   7   4   21  2   6   11
+
+i       j
+    p                                           r (aslo pivot)
+    13  19  9   5   12  8   7   4   21  2   6   11
+
+i           j
+    p                                           r (aslo pivot)
+    13  19  9   5   12  8   7   4   21  2   6   11
+
+    i           j
+    p                                           r (aslo pivot)
+    9   19  13  5   12  8   7   4   21  2   6   11
+
+        i           j    
+    p                                           r (aslo pivot)
+    9   5   13  19  12  8   7   4   21  2   6   11  
+
+        i               j    
+    p                                           r (aslo pivot)
+    9   5   13  19  12  8   7   4   21  2   6   11  
+
+            i               j    
+    p                                           r (aslo pivot)
+    9   5   8   19  12  13  7   4   21  2   6   11 
+
+                i               j    
+    p                                           r (aslo pivot)
+    9   5   8   7   12  13  19  4   21  2   6   11 
+
+                    i               j    
+    p                                           r (aslo pivot)
+    9   5   8   7   4   13  19  12  21  2   6   11
+
+                    i                   j    
+    p                                           r (aslo pivot)
+    9   5   8   7   4   13  19  12  21  2   6   11
+
+                        i                   j    
+    p                                           r (aslo pivot)
+    9   5   8   7   4   2   19  12  21  13  6   11
+
+                            i                       
+    p                                           r (aslo pivot)
+    9   5   8   7   4   2   6  12  21  13  19   11
+
+                            i                       
+    p                                           r (aslo pivot)
+    9   5   8   7   4   2   6  11  21  13  19   12
